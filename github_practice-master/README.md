@@ -1,5 +1,7 @@
 # Practice for Github Session 2
 
+change
+
 This project is a simple web calculator, use it to practice Github collaboration, testing and actions.
 
 - front-end: [view.html](src/view.html)
